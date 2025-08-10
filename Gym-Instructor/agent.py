@@ -1,5 +1,5 @@
 from google.adk import Agent
-from google.adk.tools import google_search  # The Google Search tool
+from google.adk.tools import google_search
 
 
 
